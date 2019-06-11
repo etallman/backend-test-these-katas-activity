@@ -1,4 +1,6 @@
-def add(x, y):
+import unittestfrom mycode import *
+
+ef add(x, y):
     """ Return the result of adding x to y. """
     return x + y
 
